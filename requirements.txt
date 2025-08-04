@@ -8,3 +8,4 @@ PyMuPDF
 Sastrawi
 nltk
 wordcloud
+streamlit-navigation-bar
